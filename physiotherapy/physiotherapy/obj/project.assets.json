@@ -736,19 +736,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Monika\\.nuget\\packages\\": {}
+    "C:\\Users\\LaptopFinacct\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Monika\\source\\repos\\physiotherapy\\physiotherapy\\physiotherapy.csproj",
+      "projectUniqueName": "C:\\Users\\LaptopFinacct\\source\\repos\\Minor-Project-1\\physiotherapy\\physiotherapy\\physiotherapy.csproj",
       "projectName": "physiotherapy",
-      "projectPath": "C:\\Users\\Monika\\source\\repos\\physiotherapy\\physiotherapy\\physiotherapy.csproj",
-      "packagesPath": "C:\\Users\\Monika\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Monika\\source\\repos\\physiotherapy\\physiotherapy\\obj\\",
+      "projectPath": "C:\\Users\\LaptopFinacct\\source\\repos\\Minor-Project-1\\physiotherapy\\physiotherapy\\physiotherapy.csproj",
+      "packagesPath": "C:\\Users\\LaptopFinacct\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LaptopFinacct\\source\\repos\\Minor-Project-1\\physiotherapy\\physiotherapy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Monika\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LaptopFinacct\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
